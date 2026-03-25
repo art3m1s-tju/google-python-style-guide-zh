@@ -1,4 +1,4 @@
-# Google Python Style Guide 中文整理版（超详细）
+# Google Python Style Guide 中文整理版
 
 > 说明
 >
